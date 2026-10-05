@@ -1,0 +1,18 @@
+{"date":"2026-10-05 02:51:46","godot":"4.7.1-stable (official)","kind":"env","machine":"13th Gen Intel(R) Core(TM) i5-13400F","os":"Windows","stages":["tts"]}
+{"kind":"tts_load","load_ms":106854,"source":"hf://NobodyWho/Kokoro-82M","voice":"bf_emma"}
+{"audio_s":3.38,"chars":44,"error":"","i":0,"kind":"tts","ok":true,"pass":1,"rate":24000,"rtf":0.292,"synth_ms":987,"words":8}
+{"audio_s":5.23,"chars":77,"error":"","i":1,"kind":"tts","ok":true,"pass":1,"rate":24000,"rtf":0.258,"synth_ms":1349,"words":13}
+{"audio_s":5.45,"chars":83,"error":"","i":2,"kind":"tts","ok":true,"pass":1,"rate":24000,"rtf":0.254,"synth_ms":1382,"words":17}
+{"audio_s":4.65,"chars":62,"error":"","i":3,"kind":"tts","ok":true,"pass":1,"rate":24000,"rtf":0.259,"synth_ms":1203,"words":12}
+{"audio_s":6.73,"chars":115,"error":"","i":4,"kind":"tts","ok":true,"pass":1,"rate":24000,"rtf":0.258,"synth_ms":1734,"words":24}
+{"audio_s":2.4,"chars":26,"error":"","i":5,"kind":"tts","ok":true,"pass":1,"rate":24000,"rtf":0.25,"synth_ms":600,"words":5}
+{"audio_s":5.0,"chars":68,"error":"","i":6,"kind":"tts","ok":true,"pass":1,"rate":24000,"rtf":0.223,"synth_ms":1115,"words":11}
+{"audio_s":6.1,"chars":91,"error":"","i":7,"kind":"tts","ok":true,"pass":1,"rate":24000,"rtf":0.219,"synth_ms":1334,"words":14}
+{"audio_s":3.38,"chars":44,"error":"","i":0,"kind":"tts","ok":true,"pass":2,"rate":24000,"rtf":0.146,"synth_ms":492,"words":8}
+{"audio_s":5.23,"chars":77,"error":"","i":1,"kind":"tts","ok":true,"pass":2,"rate":24000,"rtf":0.147,"synth_ms":769,"words":13}
+{"audio_s":5.45,"chars":83,"error":"","i":2,"kind":"tts","ok":true,"pass":2,"rate":24000,"rtf":0.141,"synth_ms":768,"words":17}
+{"audio_s":4.65,"chars":62,"error":"","i":3,"kind":"tts","ok":true,"pass":2,"rate":24000,"rtf":0.137,"synth_ms":635,"words":12}
+{"audio_s":6.73,"chars":115,"error":"","i":4,"kind":"tts","ok":true,"pass":2,"rate":24000,"rtf":0.141,"synth_ms":948,"words":24}
+{"audio_s":2.4,"chars":26,"error":"","i":5,"kind":"tts","ok":true,"pass":2,"rate":24000,"rtf":0.153,"synth_ms":366,"words":5}
+{"audio_s":5.0,"chars":68,"error":"","i":6,"kind":"tts","ok":true,"pass":2,"rate":24000,"rtf":0.137,"synth_ms":687,"words":11}
+{"audio_s":6.1,"chars":91,"error":"","i":7,"kind":"tts","ok":true,"pass":2,"rate":24000,"rtf":0.14,"synth_ms":851,"words":14}

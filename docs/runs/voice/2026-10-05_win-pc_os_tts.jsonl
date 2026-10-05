@@ -1,0 +1,10 @@
+{"date":"2026-10-05 02:55:02","godot":"4.7.1-stable (official)","kind":"env","machine":"13th Gen Intel(R) Core(TM) i5-13400F","os":"Windows","stages":["os"]}
+{"count":3,"kind":"os_voices","voices":["Microsoft David (en_US)","Microsoft Mark (en_US)","Microsoft Zira (en_US)"]}
+{"chars":44,"i":0,"kind":"os_tts","start_ms":138,"total_ms":5331,"voice":"Microsoft David"}
+{"chars":77,"i":1,"kind":"os_tts","start_ms":57,"total_ms":6486,"voice":"Microsoft David"}
+{"chars":83,"i":2,"kind":"os_tts","start_ms":65,"total_ms":5960,"voice":"Microsoft David"}
+{"chars":62,"i":3,"kind":"os_tts","start_ms":56,"total_ms":6304,"voice":"Microsoft David"}
+{"chars":115,"i":4,"kind":"os_tts","start_ms":65,"total_ms":9970,"voice":"Microsoft David"}
+{"chars":26,"i":5,"kind":"os_tts","start_ms":61,"total_ms":3449,"voice":"Microsoft David"}
+{"chars":68,"i":6,"kind":"os_tts","start_ms":63,"total_ms":6529,"voice":"Microsoft David"}
+{"chars":91,"i":7,"kind":"os_tts","start_ms":62,"total_ms":7300,"voice":"Microsoft David"}

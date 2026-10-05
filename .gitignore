@@ -1,0 +1,27 @@
+# Godot
+.godot/
+*.translation
+export_presets.cfg
+export/
+
+# Model files are gigabytes; download them, never commit them
+models/*
+!models/.gdignore
+*.gguf
+*.onnx
+
+# Addon binaries are fetched by scripts/setup_addons.py (some exceed GitHub's 100 MB file limit)
+addons/nobodywho/*.dll
+addons/nobodywho/*.dylib
+addons/nobodywho/*.so
+addons/nobodywho/*.pdb
+addons/godot_whisper/bin/
+
+# Local tools (the Godot editor binary lives here)
+.tools/
+
+# Local scratch
+*.tmp
+*.log
+/scratch/
+addons/godot_whisper/models/

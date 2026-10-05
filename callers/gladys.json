@@ -1,0 +1,15 @@
+{
+  "id": "gladys",
+  "name": "Gladys Pemberton",
+  "age": 82,
+  "savings": 14000,
+  "gullibility": 0.8,
+  "quirks": [
+    "thinks you are her nephew Kevin",
+    "keeps mentioning her cat Mr. Biscuits",
+    "hears every second word wrong and answers the wrong word"
+  ],
+  "voice": "en-GB",
+  "is_scambaiter": false,
+  "kokoro_voice": "bf_emma"
+}

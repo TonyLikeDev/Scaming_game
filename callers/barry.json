@@ -1,0 +1,15 @@
+{
+  "id": "barry",
+  "name": "Barry Kowalczyk",
+  "age": 58,
+  "savings": 38000,
+  "gullibility": 0.35,
+  "quirks": [
+    "is sure every caller works for the government",
+    "is always halfway through building a backyard bunker",
+    "gets excited by anything described as off-grid, unregulated or members-only"
+  ],
+  "voice": "en-US",
+  "is_scambaiter": false,
+  "kokoro_voice": "am_michael"
+}

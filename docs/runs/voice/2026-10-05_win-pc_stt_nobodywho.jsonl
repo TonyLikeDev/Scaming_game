@@ -1,0 +1,20 @@
+{"date":"2026-10-05 02:54:03","godot":"4.7.1-stable (official)","kind":"env","machine":"13th Gen Intel(R) Core(TM) i5-13400F","os":"Windows","stages":["stt_nw"]}
+{"kind":"stt_nw_load","load_ms":9543,"model":"hf://onnx-community/whisper-base","quant":"q4"}
+{"audio_s":3.38,"clip":"tts_00","heard":"Kevin is that you Mr. Biscuit says hello.","kind":"stt_nw","ms":577,"pass":1,"rtf":0.171,"wer":0.125}
+{"audio_s":5.23,"clip":"tts_01","heard":"$300 is that a deposit for Mr. Biscuits new tuna fountain.","kind":"stt_nw","ms":539,"pass":1,"rtf":0.103,"wer":0.308}
+{"audio_s":5.45,"clip":"tts_02","heard":"Now hold on just a darn minute. You think you can demand payment on the first call.","kind":"stt_nw","ms":593,"pass":1,"rtf":0.109,"wer":0.0}
+{"audio_s":4.65,"clip":"tts_03","heard":"Oh dear, a virus, I always get so confused with this computer.","kind":"stt_nw","ms":511,"pass":1,"rtf":0.11,"wer":0.0}
+{"audio_s":6.73,"clip":"tts_04","heard":"Find you have convinced me, my card is 4242, 4242, 4242, 4242.","kind":"stt_nw","ms":704,"pass":1,"rtf":0.105,"wer":0.708}
+{"audio_s":2.4,"clip":"tts_05","heard":"I don't think so, goodbye.","kind":"stt_nw","ms":378,"pass":1,"rtf":0.158,"wer":0.0}
+{"audio_s":5.0,"clip":"tts_06","heard":"A cumulus cloud over Devon that sounds rather fluffy nephew Kevin.","kind":"stt_nw","ms":497,"pass":1,"rtf":0.099,"wer":0.0}
+{"audio_s":6.1,"clip":"tts_07","heard":"Invisible to satellites, that sounds exactly what I need for my secret underground hideout.","kind":"stt_nw","ms":580,"pass":1,"rtf":0.095,"wer":0.0}
+{"audio_s":11.0,"clip":"jfk_human","heard":"And so my fellow Americans ask not what your country can do for you, ask what you can do for your country.","kind":"stt_nw","ms":697,"pass":1,"rtf":0.063,"wer":0.0}
+{"audio_s":3.38,"clip":"tts_00","heard":"Kevin is that you Mr. Biscuit says hello.","kind":"stt_nw","ms":451,"pass":2,"rtf":0.134,"wer":0.125}
+{"audio_s":5.23,"clip":"tts_01","heard":"$300 is that a deposit for Mr. Biscuits new tuna fountain.","kind":"stt_nw","ms":531,"pass":2,"rtf":0.102,"wer":0.308}
+{"audio_s":5.45,"clip":"tts_02","heard":"Now hold on just a darn minute. You think you can demand payment on the first call.","kind":"stt_nw","ms":593,"pass":2,"rtf":0.109,"wer":0.0}
+{"audio_s":4.65,"clip":"tts_03","heard":"Oh dear, a virus, I always get so confused with this computer.","kind":"stt_nw","ms":511,"pass":2,"rtf":0.11,"wer":0.0}
+{"audio_s":6.73,"clip":"tts_04","heard":"Find you have convinced me, my card is 4242, 4242, 4242, 4242.","kind":"stt_nw","ms":711,"pass":2,"rtf":0.106,"wer":0.708}
+{"audio_s":2.4,"clip":"tts_05","heard":"I don't think so, goodbye.","kind":"stt_nw","ms":371,"pass":2,"rtf":0.155,"wer":0.0}
+{"audio_s":5.0,"clip":"tts_06","heard":"A cumulus cloud over Devon that sounds rather fluffy nephew Kevin.","kind":"stt_nw","ms":490,"pass":2,"rtf":0.098,"wer":0.0}
+{"audio_s":6.1,"clip":"tts_07","heard":"Invisible to satellites, that sounds exactly what I need for my secret underground hideout.","kind":"stt_nw","ms":573,"pass":2,"rtf":0.094,"wer":0.0}
+{"audio_s":11.0,"clip":"jfk_human","heard":"And so my fellow Americans ask not what your country can do for you, ask what you can do for your country.","kind":"stt_nw","ms":691,"pass":2,"rtf":0.063,"wer":0.0}
